@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, I'm İrem Erdoğan 😇👋
 
-**My name is İrem. 
 - 📚 I am a Computer Engineering student at Karabuk University. 
 - 🌱 I’m currently learning Web development and Mobil application Flutter, Kotlin etc. 
 
