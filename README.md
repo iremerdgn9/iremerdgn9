@@ -9,6 +9,6 @@
 --->
 ### Contacts
 
-###### Linkedin: [Linkedin](www.linkedin.com/in/iremerdogan1)
+###### Linkedin: [Linkedin](www.linkedin.com/in/iremerdogan1/)
 ###### Email: [Email](irmerdgn06@gmail.com)
 ###### İnstagram: [Instagram](https://www.instagram.com/yazilimci1kadin/)
